@@ -20,7 +20,7 @@ Since CollectionBuilder-GH uses [GitHub Pages](https://pages.github.com/), it is
 GitHub repositories are limited to 1GB.
 For larger collections or those that require more customization, check out the [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) template.
 
-## CollectionBuilder-GH Quick Tutorial
+## Crystal's Pilot Test
 
 Follow the [CollectionBuilder-GH Walkthrough](https://collectionbuilder.github.io/cb-docs/docs/walkthroughs/gh-walkthrough/) to set up a collection quickly using demo metadata and objects. 
 
